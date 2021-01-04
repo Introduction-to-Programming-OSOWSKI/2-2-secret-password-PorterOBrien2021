@@ -1,5 +1,5 @@
-def password(p, Knights19):
-    if p == Knights19:
+def password(p):
+    if p == "Knights19":
         return True
     else:
         return False
